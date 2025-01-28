@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Windows",
+            "includePath": [
+                "D:/NDK/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include",
+                "F:/frida-gum/gum",
+                "${workspaceFolder}/**",
+                "f:/frida-gum/gum",
+                "f:/frida-gum/ext/capstone/include",
+                "f:/frida-gum/gum/arch-arm",
+                "f:/frida-gum/gum/arch-arm64",
+                "f:/frida-gum/gum/arch-mips",
+                "f:/frida-gum/gum/arch-x86",
+                "f:/frida-gum/gum/backend-arm",
+                "f:/frida-gum/gum/backend-arm64",
+                "f:/frida-gum/gum/backend-darwin",
+                "f:/frida-gum/gum/backend-dbghelp",
+                "f:/frida-gum/gum/backend-elf",
+                "f:/frida-gum/gum/backend-freebsd",
+                "f:/frida-gum/gum/backend-libdwarf",
+                "f:/frida-gum/gum/backend-libunwind",
+                "f:/frida-gum/gum/backend-linux",
+                "f:/frida-gum/gum/backend-mips",
+                "f:/frida-gum/gum/backend-posix",
+                "f:/frida-gum/gum/backend-qnx",
+                "f:/frida-gum/gum/backend-windows",
+                "f:/frida-gum/gum/backend-x86",
+                "f:/frida-gum/gum/devkit"
+            ],
+            "compilerPath": "D:/NDK/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+            "intelliSenseMode": "windows-msvc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
